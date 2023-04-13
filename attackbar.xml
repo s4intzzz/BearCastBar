@@ -124,9 +124,9 @@
 						<AbsDimension x="190" y="6"/>
 					</Size>
 					<Anchors>
-						<Anchor point="TOP">
+						<Anchor point="LEFT">
 							<Offset>
-								<AbsDimension x="0" y="10"/>
+								<AbsDimension x="-20" y="10"/>
 							</Offset>
 						</Anchor>
 					</Anchors>
