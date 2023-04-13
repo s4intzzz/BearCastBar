@@ -309,7 +309,7 @@ function Abar_Update()
 	else
 			tText:Hide()
 	end
-	this:SetValue(ttime)
+	this:SetValue(nil)
 	tSpark:SetPoint("CENTER", this, "LEFT", (ttime-this.st)/(this.et-this.st)*255, 0);
 	if ttime>=this.et then 
 	this:Hide() 
