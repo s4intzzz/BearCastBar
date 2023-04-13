@@ -7,8 +7,8 @@ local barHeight = 28
 local CUSTOM_TEXTURE_PATH = "Interface\\AddOns\\BearCastBar\\textures\\"
 
 local BCB_DEFAULTS = {}
-BCB_DEFAULTS.width = 255
-BCB_DEFAULTS.height = 32
+BCB_DEFAULTS.width = 190
+BCB_DEFAULTS.height = 24
 BCB_DEFAULTS.heightMin = 24
 BCB_DEFAULTS.heightMax = 100
 BCB_DEFAULTS.widthMin = 50
@@ -475,7 +475,7 @@ function bcb:PLAYER_ENTERING_WORLD()
     self.configFrame.attackBarConfigFrame:SetFrameStrata("LOW")
     self.configFrame.attackBarConfigFrame:SetPoint("TOPRIGHT", self.configFrame, "TOPRIGHT", -4, -26)
     self.configFrame.attackBarConfigFrame:SetHeight(270)
-    self.configFrame.attackBarConfigFrame:SetWidth(248)
+    self.configFrame.attackBarConfigFrame:SetWidth(190)
     self.configFrame.attackBarConfigFrame:SetMovable(true)
     self.configFrame.attackBarConfigFrame:SetBackdrop({bgFile = "Interface/Tooltips/UI-Tooltip-Background", 
                                             edgeFile = "Interface/Tooltips/UI-Tooltip-Border", 
