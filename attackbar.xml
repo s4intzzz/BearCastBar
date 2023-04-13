@@ -109,7 +109,7 @@
 			<Layer level="ARTWORK">
 				<FontString name="$parentText" inherits="GameFontHighlight">
 					<Size>
-						<AbsDimension x="255" y="6"/>
+						<AbsDimension x="190" y="6"/>
 					</Size>
 					<Anchors>
 						<Anchor point="TOP">
@@ -126,7 +126,7 @@
 					<Anchors>
 						<Anchor point="LEFT">
 							<Offset>
-								<AbsDimension x="110" y="10"/>
+								<AbsDimension x="0" y="10"/>
 							</Offset>
 						</Anchor>
 					</Anchors>
