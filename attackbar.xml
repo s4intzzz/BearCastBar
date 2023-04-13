@@ -126,22 +126,11 @@
 					<Anchors>
 						<Anchor point="LEFT">
 							<Offset>
-								<AbsDimension x="110" y="10"/>
+								<AbsDimension x="100" y="10"/>
 							</Offset>
 						</Anchor>
 					</Anchors>
 				</FontString>
-			</Layer>
-			<Layer level="OVERLAY">
-				<Texture name="$parentSpark" file="Interface\CastingBar\UI-CastingBar-Spark" alphaMode="ADD">
-					<Size>
-						<AbsDimension x="18" y="9"/>
-					</Size>
-					<Anchors>
-						<Anchor point="CENTER"/>
-					</Anchors>
-				</Texture>
-			</Layer>
 		</Layers>
 		<Scripts>
 			<OnUpdate>
