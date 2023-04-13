@@ -121,7 +121,7 @@
 				</FontString>
 				<FontString name="$parentTmr" inherits="GameFontHighlight">
 					<Size>
-						<AbsDimension x="80" y="6"/>
+						<AbsDimension x="110" y="6"/>
 					</Size>
 					<Anchors>
 						<Anchor point="LEFT">
