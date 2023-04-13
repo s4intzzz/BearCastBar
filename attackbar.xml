@@ -91,7 +91,7 @@
 
 
 		<Size>
-			<AbsDimension x="255" y="6"/>
+			<AbsDimension x="190" y="6"/>
 		</Size>
 		<Anchors>
 			<Anchor point="CENTER">
@@ -121,7 +121,7 @@
 				</FontString>
 				<FontString name="$parentTmr" inherits="GameFontHighlight">
 					<Size>
-						<AbsDimension x="255" y="6"/>
+						<AbsDimension x="190" y="6"/>
 					</Size>
 					<Anchors>
 						<Anchor point="LEFT">
