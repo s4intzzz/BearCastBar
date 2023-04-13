@@ -24,7 +24,7 @@
   </Frame>
 	<Frame name="Abar_Frame" toplevel="true" enableMouse="true" movable = "true" parent="UIParent">
 		<Size>
-			<AbsDimension x="263" y="32"/>
+			<AbsDimension x="268" y="32"/>
 		</Size>
 		<Anchors>
 			<Anchor point="CENTER">
@@ -91,7 +91,7 @@
 
 
 		<Size>
-			<AbsDimension x="255" y="6"/>
+			<AbsDimension x="190" y="6"/>
 		</Size>
 		<Anchors>
 			<Anchor point="CENTER">
